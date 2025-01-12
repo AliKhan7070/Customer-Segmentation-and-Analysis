@@ -1,7 +1,5 @@
 
 # Document Clustering
-
-## Overview
 This repository contains the implementation of a **Document Clustering** project developed as part of **Group 18**. The notebook demonstrates the use of various Python libraries to perform document clustering using advanced statistical and machine learning techniques.
 
 ## Dependencies
