@@ -1,6 +1,6 @@
 
 # Customer Segmentation and Analysis
-This repository contains the implementation of a **Customer Segmentation and Analysis** project developed as part of **Group 18**. The notebook demonstrates the use of various Python libraries to perform document clustering using advanced statistical and machine learning techniques.
+This repository contains the implementation of a **Customer Segmentation and Analysis** project . The notebook demonstrates the use of various Python libraries to perform document clustering using advanced statistical and machine learning techniques.
 
 ## Dependencies
 The following Python libraries are used in this project:
